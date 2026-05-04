@@ -112,22 +112,6 @@ This project reflects how I approach real-world analytics:
 
 ---
 
-## 📬 Let’s Connect
-
-I’m actively seeking a **Data Analyst Internship**.
-If you're hiring or working on data-driven products, let’s connect.
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐
-
----
-
-## ⚠️ Setup Note
-
-Place your images inside:
 
 
 
