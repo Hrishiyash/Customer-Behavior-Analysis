@@ -72,11 +72,7 @@ Raw Data → Pandas (Cleaning & Transformation) → PostgreSQL (SQL Analysis) �
 
 ### 🔹 Customer Behavior Dashboard
 
-![Dashboard](images/dashboard.png)
-
-### 🔹 SQL Analysis Queries
-
-![SQL](images/sql_queries.png)
+![Dashboard](Screenshot 2026-05-04 103721.png)
 
 ---
 
