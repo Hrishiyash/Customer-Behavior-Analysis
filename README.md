@@ -133,10 +133,7 @@ If you found this project useful, consider giving it a ⭐
 
 Place your images inside:
 
-```
-/images/dashboard.png  
-/images/sql_queries.png
-```
+
 
 ---
 
